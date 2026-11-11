@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @j0hnnyclaymore
 - 👀 I’m interested in Open Source Software especially in Proxmox VE
-- 🌱 I’m currently learning Ceph
-- 💞️ I’m looking to collaborate on Proxmox, TrueNAS
-- 📫 How to reach me -- PM me
+- 🌱 I’m loving Ceph & Proxmox VE
+- 💞️ I’m looking to collaborate on Proxmox
+- 📫 How to reach me or write a mail to jsterr@proxforge.de
 
 <!---
 j0hnnyclaymore/j0hnnyclaymore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
